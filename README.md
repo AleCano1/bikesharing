@@ -27,5 +27,6 @@ In this last chart, we can observe that the customers use more bike-sharing on S
 ### Summary
 Finally, Identifying the time that most customers and subscribers use the bikes, will help the investors to take the decision and start the program of bike-sharing, based on the scheduled and the use of the bikes is a good business and also will have good impact on the natural environment, also to sum to this analysis will be helpful is we create another visualization about the top end station, this will help the company to now where the people are going, maybe a specific company or companies or students, which people? the subscribers or customers, having this visualization will be helpful.
 
-
+In the next link you can see the complete visualization
+------
 [link to dashboard](https://public.tableau.com/app/profile/alejandra6221/viz/CitiBikeNYC_16496475299900/Historia1)
