@@ -19,7 +19,7 @@ In this chart we can observe the trip duration that the bikes are used by gender
 
 In this chart, we can see that the days that most start the trip is during the week Monday to Friday and the most popular, in the morning between 7:00 and 9:00 am, and in the afternoon between 5:00 and 7:00 pm, this could be related with the office hours and schools scheduled, also we can see that Saturday and Sunday the most popular hours are between 9:00 am and 5:00 pm, probably they use the bike for personal stuff and there is no a defined scheduled. 
 
-![User trips by gender](Images/User_trips_by_gender.png)
+![User trips by gender](Images/User_trips_by_gender)
 
 
 In this last chart, we can observe that the customers use more bike-sharing on Saturdays, but the subscriber use it more, and males use it all the days of the week specifically, Thursday and Friday.  
