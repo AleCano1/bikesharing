@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 ## Overview of Project 
 ### Purpose
 The purpose of this project is to create an original visualization about a Citi Bike NYC business, using a popular software named Tableau, and induce the investors to do something similar in Des Moines.
